@@ -9,6 +9,11 @@ venv/
 .env.local
 .env.*
 *.env
+# Allow the example env file
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
 
 # build files
 .next/
