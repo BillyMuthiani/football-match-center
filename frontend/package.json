@@ -1,4 +1,7 @@
 {
+  
+  "//": "Force redeploy with updated type packages",
+  
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
